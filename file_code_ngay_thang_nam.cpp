@@ -2,6 +2,7 @@
 // sinn trào (đây là Ý đúng không?)
 // Hello It's Me, SurgeousJP =))))))))
 // tamđei :v
+// minh
 #include <iostream>
 using namespace std;
 class CDate
