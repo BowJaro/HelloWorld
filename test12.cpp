@@ -1,5 +1,5 @@
 // test12.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// sinn trào
 // Hello It's Me, SurgeousJP =))))))))
 #include <iostream>
 using namespace std;
