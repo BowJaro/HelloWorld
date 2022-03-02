@@ -1,6 +1,8 @@
 // test12.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
+// sinn trào (đây là Ý đúng không?)
+// Hello It's Me, SurgeousJP =))))))))
+// tamđei :v
+// minh
 #include <iostream>
 using namespace std;
 class CDate
