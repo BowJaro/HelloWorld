@@ -1,4 +1,5 @@
-# Hello World, We're Team 2. Our slogan: Born to Shine.
+# Hello World, We're Team 2.
+# Born to Shine.
 This is the introduction of the project. We usually describe some parts of the project.
 
 _Team 2_ members:
